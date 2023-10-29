@@ -20,6 +20,9 @@ This is a simple web project, deployment can only be on any web server or a loca
 
 ##How To Contribute
 
+Please fork this repository and then issue Pull Requests for Review 
+
+
 
 ##Copywrite
 2030 Git Training Wheels
