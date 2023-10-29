@@ -19,3 +19,7 @@ This is a simple web project, deployment can only be on any web server or a loca
 
 
 ##How To Contribute
+
+
+##Copywrite
+2030 Git Training Wheels
